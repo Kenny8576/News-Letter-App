@@ -1,2 +1,1 @@
-
-https://precious-calf-kimono.cyclic.app.js
+web: node app.js
